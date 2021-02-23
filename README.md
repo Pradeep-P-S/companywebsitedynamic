@@ -150,23 +150,23 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![output](static/img/rr1.jpg)
+![output](static/img/rrr1.jpg)
 
-![output](static/img/rr2.jpg)
+![output](static/img/rrr2.jpg)
 
-![output](static/img/rr3.jpg)
+![output](static/img/rrr3.jpg)
 
-![output](static/img/rr4.jpg)
+![output](static/img/rrr4.jpg)
 
 ## CODE VALIDATION:
 
-![output](static/img/rr5.jpg)
+![output](static/img/rrr5.jpg)
 
-![output](static/img/rr6.jpg)
+![output](static/img/rrr6.jpg)
 
-![output](static/img/rr7.jpg)
+![output](static/img/rrr7.jpg)
 
-![output](static/img/rr8.jpg)
+![output](static/img/rrr8.jpg)
 
 
 
