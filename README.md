@@ -157,6 +157,9 @@ Publish the website in the given URL.
 ![output](static/img/rrr3.jpg)
 
 ![output](static/img/rrr4.jpg)
+![output](static/img/ad1.jpg)
+
+![output](static/img/ad2.jpg)
 
 ## CODE VALIDATION:
 
